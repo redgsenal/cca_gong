@@ -4,13 +4,23 @@
 	overflow: hidden;
 }
 .content{
-	background-image: url("../img/bg.png");
     background-repeat: no-repeat;
-    width: 1700px;
-    height: 2073px;
+    width: 1700px;    
     margin: 0 auto;
     background-position: top center;
     overflow: hidden;
+}
+.content1{
+	background-image: url("../img/bg1.png");
+	height: 1888px;
+}
+.content2{
+	background-image: url("../img/bg2.png");
+	height: 2042px;
+}
+.content3{
+	background-image: url("../img/bg3.png");
+	height: 1839px;
 }
 .videobox{
 	cursor: pointer;
@@ -47,6 +57,26 @@
     background-repeat: no-repeat;
     margin-left: 10px;
 }
+#video2a{
+	background-image: url("../img/video2a.png");
+    background-repeat: no-repeat;
+    margin-left: 747px;
+}
+#video2b{
+	background-image: url("../img/video2b.png");
+    background-repeat: no-repeat;
+    margin-left: 747px;
+}
+#video3a{
+	background-image: url("../img/video3a.png");
+    background-repeat: no-repeat;
+    margin-left: 747px;
+}
+#video3b{
+	background-image: url("../img/video3b.png");
+    background-repeat: no-repeat;
+    margin-left: 747px;
+}
 #jplayer{
 	width: 100%;
 	height: 100%;
@@ -68,8 +98,20 @@
 	top: 171px;
 }
 .row2{
-	top: 853px;
+	top: 920px;
 }
 .row3{
 	top: 890px;
+}
+.row1-2a{
+	top: 187px;
+}
+.row2-2b{
+	top: 942px;
+}
+.row1-3a{
+	top: 183px;
+}
+.row2-3b{
+	top: 867px;
 }
