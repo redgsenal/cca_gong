@@ -1,0 +1,5 @@
+AuthUserFile /var/www/internals/cca_gong/.htpasswd
+AuthType Basic
+AuthName "Login Area"
+
+require valid-user
